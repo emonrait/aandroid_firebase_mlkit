@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565566164256",
+    "firebase_url": "https://face-detection-25e67.firebaseio.com",
+    "project_id": "face-detection-25e67",
+    "storage_bucket": "face-detection-25e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565566164256:android:8d3bc5a1fac7cd77f2db45",
+        "android_client_info": {
+          "package_name": "com.example.livenessdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565566164256-k0923obg1gkbnco6447060lj4ukk8ajn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn9X73Naa6LUOL9AnoxAzgopfiNa-2RMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565566164256-k0923obg1gkbnco6447060lj4ukk8ajn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
